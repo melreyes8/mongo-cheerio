@@ -1,0 +1,20 @@
+body {
+    background: url(http://getwallpapers.com/wallpaper/full/e/6/9/899826-baseball-backgrounds-1920x1200-for-full-hd.jpg);
+}
+
+.wrapper {
+    background: white;
+    height: 800px;
+    padding: 5px 20px 5px 20px;
+} 
+
+header {
+    color: #ee6e73;
+    font-size: 30px;
+    background: white;
+    padding: 5px 20px 5px 20px;
+  }
+
+  #scrape-new-articles {
+      background-color: blue;
+  }
